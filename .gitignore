@@ -1,0 +1,3 @@
+# 文档正本一律用 Markdown；Word/PDF 只是临时导出，不入库
+*.docx
+*.pdf
